@@ -1,0 +1,27 @@
+
+body{
+    background-color: #312118;
+    color: #aca099;
+    font-family: tahoma;
+    font-size: 10px;
+
+}
+
+section{
+    border: 1px solid #aca099;
+}
+h1{
+    color: #d3c3ba
+}
+
+h2{
+    background-image:url(../images/bullet.jpg);  
+    background-repeat: no-repeat;
+    color: orange;
+    font-size: 12px;
+}
+
+img{
+    float: left;   
+}
+
